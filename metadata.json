@@ -1,0 +1,6 @@
+{
+  "name": "AegisPrivacy - GenAI Data Privacy Protector & Redaction Engine",
+  "description": "Real-time PII anonymization, customizable redaction filters, query-relevant document extraction, and browser extension integration for secure Generative AI workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
